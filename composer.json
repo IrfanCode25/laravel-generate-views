@@ -1,6 +1,6 @@
 {
     "name": "fancoders/laravel-generate-views",
-    "description": "Generate Laravel Views for resources/views directory",
+    "description": "A Laravel package with Artisan command to create Blade views in the resources/views directory.",
     "type": "library",
     "keywords": ["laravel", "package"],
     "license": "MIT",
