@@ -15,6 +15,5 @@ class GenerateViewServiceProvider extends ServiceProvider
 
     public function boot()
     {
-        // tambahkan logika booting jika diperlukan
     }
 }
