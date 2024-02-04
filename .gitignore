@@ -1,0 +1,63 @@
+# Laravel specific
+/.env
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/backups
+/storage/framework/*
+/storage/logs
+/storage/app/public
+/storage/app/framework
+/storage/app/uploads
+
+# Homestead/Vagrant
+Homestead.json
+Homestead.yaml
+.vagrant
+
+# Composer
+/composer.phar
+/vendor
+
+# PhpStorm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse
+.project
+.buildpath
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# NetBeans
+/nbproject/private/
+/nbproject/backup/
+/nbproject/build/
+/nbproject/dist/
+/nbproject/nb-configuration.xml
+/nbproject/Package-IPS-Web.xml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config for code intelligence
+.sass-cache/
+.phpstorm.meta.php/
+.phpstorm.meta.php
+
+# Laravel Mix
+/mix-manifest.json
+/public/css/*
+/public/js/*
+/public/mix-manifest.json
+
+# Homestead
+/Vagrantfile

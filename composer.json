@@ -1,0 +1,33 @@
+{
+    "name": "fancoders/laravel-generate-views",
+    "description": "Generate Laravel Views for resources/views directory",
+    "type": "library",
+    "keywords": ["laravel", "package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Irfan",
+            "email": "irfan25061997m@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fancode\\LaravelGenerateViews\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0",
+        "illuminate/support": "^8.0"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Fancode\\LaravelGenerateViews\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
